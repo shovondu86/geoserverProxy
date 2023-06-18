@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Q+UYTaXE91TjURg56rtpNoG2wi5W12pvjA88ETxgt7s=",
+  "Source": "geoserverProxy",
+  "BasePath": "_content/geoserverProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "geoserverProxy\\wwwroot",
+      "Source": "geoserverProxy",
+      "ContentRoot": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\",
+      "BasePath": "_content/geoserverProxy",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\1.png",
+      "SourceId": "geoserverProxy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\",
+      "BasePath": "_content/geoserverProxy",
+      "RelativePath": "1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.png"
+    },
+    {
+      "Identity": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\map.html",
+      "SourceId": "geoserverProxy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\",
+      "BasePath": "_content/geoserverProxy",
+      "RelativePath": "map.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\map.html"
+    }
+  ]
+}

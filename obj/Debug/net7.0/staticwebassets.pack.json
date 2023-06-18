@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\1.png",
+      "PackagePath": "staticwebassets\\1.png"
+    },
+    {
+      "Id": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\map.html",
+      "PackagePath": "staticwebassets\\map.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.geoserverProxy.props",
+      "PackagePath": "build\\geoserverProxy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.geoserverProxy.props",
+      "PackagePath": "buildMultiTargeting\\geoserverProxy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.geoserverProxy.props",
+      "PackagePath": "buildTransitive\\geoserverProxy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.geoserverProxy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
