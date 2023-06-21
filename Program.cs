@@ -17,7 +17,7 @@ app.UseStaticFiles();
 //app.UseCors(CorsPolicyName);
 
 var proxyClient = new HttpClient();
-var geosBaseUrl="http://stsi.lged.gov.bd:8080/geoserver/";
+var geosBaseUrl="http://stsi.lged.gov.bd/geoserver/";
 
 app.MapGet("/", () => "Hello World!");
 app.MapGet("/wms/", async (HttpRequest request) => 

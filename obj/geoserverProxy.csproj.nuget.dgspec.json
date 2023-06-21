@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj": {}
+    "D:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj": {}
   },
   "projects": {
-    "d:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj": {
+    "D:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj",
+        "projectUniqueName": "D:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj",
         "projectName": "geoserverProxy",
-        "projectPath": "d:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj",
+        "projectPath": "D:\\dotNetWorkSpace\\geoserverProxy\\geoserverProxy.csproj",
         "packagesPath": "C:\\Users\\Mohiuddin Shovon\\.nuget\\packages\\",
-        "outputPath": "d:\\dotNetWorkSpace\\geoserverProxy\\obj\\",
+        "outputPath": "D:\\dotNetWorkSpace\\geoserverProxy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

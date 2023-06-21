@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\1.png",
-      "PackagePath": "staticwebassets\\1.png"
+      "Id": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\js\\L.TileLayer.BetterWMS.js",
+      "PackagePath": "staticwebassets\\js\\L.TileLayer.BetterWMS.js"
     },
     {
       "Id": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\map.html",

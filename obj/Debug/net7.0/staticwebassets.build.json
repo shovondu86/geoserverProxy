@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q+UYTaXE91TjURg56rtpNoG2wi5W12pvjA88ETxgt7s=",
+  "Hash": "fMKU4aI8VmOpPVKmZiaqAvqV/utr0keAzuOJuHKi0hA=",
   "Source": "geoserverProxy",
   "BasePath": "_content/geoserverProxy",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\1.png",
+      "Identity": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\js\\L.TileLayer.BetterWMS.js",
       "SourceId": "geoserverProxy",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\",
       "BasePath": "_content/geoserverProxy",
-      "RelativePath": "1.png",
+      "RelativePath": "js/L.TileLayer.BetterWMS.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,7 +31,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\1.png"
+      "OriginalItemSpec": "wwwroot\\js\\L.TileLayer.BetterWMS.js"
     },
     {
       "Identity": "D:\\dotNetWorkSpace\\geoserverProxy\\wwwroot\\map.html",
